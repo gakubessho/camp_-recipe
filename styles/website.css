@@ -9,3 +9,11 @@ table{
 .markdown-section table{
     width: 80%;
 }
+.page-inner {
+    margin: 3em auto 0;  
+}
+.book-header{
+    position: fixed;
+    background-color: #fff;
+    width:100%;
+}
